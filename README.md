@@ -21,7 +21,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23db8402?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-%2324292e?style=for-the-badge&logo=github&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-%2343853d?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-%2343853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2313aa52?style=for-the-badge&logo=mongoDB&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%231a73e8?style=for-the-badge&logo=postgresql&logoColor=white)
