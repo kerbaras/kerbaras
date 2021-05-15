@@ -35,7 +35,8 @@ Hi! my name is Matias. I'm a Senior Software Engineer, Python lover and Minecraf
 
 <br/>
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%2312100E?style=for-the-badge&logo=github&logoColor=white)](http://github.com/kerbaras)
-[![TWITTER](https://img.shields.io/badge/TWITTER-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/kerb_mc)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedi.com/in/matias-pierobon)
-[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-%23F51602?style=for-the-badge&logo=youtube&logoColor=white)](http://youtube.com/kerbaras)
+[![GitHub](https://img.shields.io/github/followers/kerbaras?label=@Kerbaras&color=%2312100E&style=for-the-badge&logo=github&logoColor=%2312100E)](http://github.com/kerbaras)
+[![Twitter](https://img.shields.io/twitter/follow/kerb_mc?color=1DA1F2&label=%40kerb_mc&style=for-the-badge&logo=twitter&logoColor=%231DA1F2)](http://twitter.com/kerb_mc)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCM-neb-esIkawQqF7CrwZ9A?color=%23F51602&label=%2FKerbars&logo=youtube&logoColor=%23F51602&style=for-the-badge)](http://youtube.com/kerbaras)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-pierobon)
+
