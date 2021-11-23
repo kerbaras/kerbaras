@@ -36,7 +36,6 @@ Hi! my name is Matias. I'm a Senior Software Engineer, Python lover and Minecraf
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=kerbaras&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
  - :smile: He/Him
- - :pick: Minecraft technical player. Member of [SciCraft](https://www.youtube.com/results?search_query=scicraft)
  - :airplane: I enjoy flying way too much
  - :speech_balloon: I REALLY like debates and talking
  - :computer: I love coding, its what defines me
