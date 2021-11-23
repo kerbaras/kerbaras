@@ -1,6 +1,6 @@
 ### Hey, Kerb here! :wave:
 
-Hi! my name is Matias. I'm a Senior Software Engineer, Python lover and Minecraft Player
+Hi! my name is Matias. I'm a Senior Software Engineer, Python lover
 
 ![Docker](https://img.shields.io/badge/-Docker-%2346a2f1?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2345b8d8?style=flat-square&logo=react&logoColor=white)
